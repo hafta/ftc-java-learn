@@ -1,4 +1,4 @@
-# FTC Java Learn
+# Java: Scratching the Surface
 
 Java lessons for FTC team members. Each numbered folder is one lesson.
 
