@@ -1,10 +1,3 @@
-/*
- * Lesson 1: Hello, Robot!
- *
- */
-
-// Every Java program lives inside a "class". The class name must match the
-// file name: class HelloRobot lives in HelloRobot.java.
 public class HelloRobot {
 
     public static void main(String[] args) {
