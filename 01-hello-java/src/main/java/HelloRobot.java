@@ -54,4 +54,7 @@ public class HelloRobot {
     // Change printTeamGreeting() so it takes a parameter, like this:
     // private static void printTeamGreeting(int teamNumber)
     // and prints that number instead.
+
+    // EXPERIMENT:
+    // Change printTeamGreeting() so it is not static.
 }
